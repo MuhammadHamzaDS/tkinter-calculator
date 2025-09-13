@@ -36,7 +36,7 @@ Contributions are welcome:
 - Submit a PR
 ---
 ## 📜 License (MIT)
--This project is licensed under the **MIT License**.
+- This project is licensed under the **MIT License**.
 
 ## 📌 Usage  
 ```bash
