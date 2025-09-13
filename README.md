@@ -20,8 +20,7 @@ Perfect for **beginners** and anyone who wants a clean, easy-to-use calculator.
 ## 💡 Why This Project?  
 - Lightweight and functional  
 - Great for **learning Tkinter GUI development**  
-- Clean interface for everyday use  
-- Beginner-friendly project to **showcase on GitHub**  
+- Clean interface for everyday use   
 ---
 ## 🌟 Future Enhancements
 - 🧮 Add scientific functions (√, ^, log, etc.)
