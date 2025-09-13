@@ -30,14 +30,13 @@ Perfect for **beginners** and anyone who wants a clean, easy-to-use calculator.
 ---
 ## 🤝 Contributing
 Contributions are welcome:
-1. Fork the repo
-2. Create a new branch
-3. Make changes
-4. Submit a PR
+- Fork the repo
+- Create a new branch
+- Make changes
+- Submit a PR
 ---
 ## 📜 License (MIT)
-This project is licensed under the **MIT License**.
-
+-This project is licensed under the **MIT License**.
 
 ## 📌 Usage  
 ```bash
